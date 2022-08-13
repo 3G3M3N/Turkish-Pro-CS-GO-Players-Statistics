@@ -9,9 +9,22 @@ We have 811 player in this dataset.
 
 Actualy we have much players. But here is just taked global teams. Turkish best team, global team is Eternal Fire. So data is just Eternal Fire players and famous CS:GO players.
 
+**Turkish Famous Teams:**
+
 **Eternal Fire:**
 
-![qw](https://user-images.githubusercontent.com/83331577/184373487-fb1a2777-38d8-4bc5-a01d-168318b58f74.PNG)
+![450px-Eternal_Fire_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184474859-fac10c49-6e2d-402d-a2b9-a2b4024ec456.jpg)
+![qw](https://user-images.githubusercontent.com/83331577/184373487-fb1a2777-38d8-4bc5-a01d-168318b58f74.PNG) 
+
+
+**Space Soldiers:**
+
+
+![591px-Space_Soldiers_ELEAGUE_Boston](https://user-images.githubusercontent.com/83331577/184474825-e2dca063-3bc5-454d-9592-b39ccc8379f1.jpg)![220px-Space_Soldiers_Logo](https://user-images.githubusercontent.com/83331577/184474943-03be29d2-6283-4965-987a-feb949d57a48.jpg)
+
+**Sangal Esports:**
+
+![sangalll](https://user-images.githubusercontent.com/83331577/184475243-8b6676f1-39c7-4d35-88d1-7547b4e3b72c.PNG)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +36,8 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 **woxic,     Özgür Eker,  Eternal Fire**
 
-![600px-Woxic_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184378655-729b88ec-d148-494f-9ee6-d61ae305005e.jpg)
+![600px-Woxic_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184378655-729b88ec-d148-494f-9ee6-d61ae305005e.jpg)![sangalll](https://user-images.githubusercontent.com/83331577/184475239-ddb64bf0-e171-4160-a576-4403e43c92e5.PNG)
+
 
 
 **Calyx,	   Buğra Arkın,  none	**   
