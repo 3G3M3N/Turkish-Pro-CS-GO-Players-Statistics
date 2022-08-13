@@ -11,18 +11,18 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 **Turkish Famous Teams:**
 
-**Eternal Fire:**
+**Eternal Fire, #27 World Ranking**
 
 ![450px-Eternal_Fire_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184474859-fac10c49-6e2d-402d-a2b9-a2b4024ec456.jpg)
 ![qw](https://user-images.githubusercontent.com/83331577/184373487-fb1a2777-38d8-4bc5-a01d-168318b58f74.PNG) 
 
 
-**Space Soldiers:**
+**Space Soldiers, Closed**
 
 
 ![591px-Space_Soldiers_ELEAGUE_Boston](https://user-images.githubusercontent.com/83331577/184474825-e2dca063-3bc5-454d-9592-b39ccc8379f1.jpg)![220px-Space_Soldiers_Logo](https://user-images.githubusercontent.com/83331577/184474943-03be29d2-6283-4965-987a-feb949d57a48.jpg)
 
-**Sangal Esports:**
+**Sangal Esports, #78 World Ranking**
 
 ![sangalll](https://user-images.githubusercontent.com/83331577/184475243-8b6676f1-39c7-4d35-88d1-7547b4e3b72c.PNG)
 
@@ -32,17 +32,16 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 **Turkish Proffesional CS:GO Players::**
 
-**XANTARES,	 Ismailcan Dörtkardeş:**
+**XANTARES,	 Ismailcan Dörtkardeş, Eternal Fire**
 
 ![600px-XANTARES_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184378893-3cffc781-c42e-4885-94e4-6ce01c2286ea.jpg)
 
 **woxic,     Özgür Eker,  Eternal Fire**
 
-![600px-Woxic_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184378655-729b88ec-d148-494f-9ee6-d61ae305005e.jpg)![sangalll](https://user-images.githubusercontent.com/83331577/184475239-ddb64bf0-e171-4160-a576-4403e43c92e5.PNG)
+![600px-Woxic_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184378655-729b88ec-d148-494f-9ee6-d61ae305005e.jpg)
 
 
-
-**Calyx,	   Buğra Arkın,  none	**   
+**Calyx,	   Buğra Arkın,  none**   
 
 ![600px-Calyx_at_Antwerp_Major_2022_EU_RMR](https://user-images.githubusercontent.com/83331577/184379131-20ea1015-7939-424e-b445-d0df2dc0a8cb.jpg)
 
@@ -133,7 +132,7 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 **Damage Per Round:**
 
-----![damageperround](https://user-images.githubusercontent.com/83331577/184473321-d770b2bf-aed4-4fbb-8f18-2bde4335b0cf.PNG)
+![damageperround](https://user-images.githubusercontent.com/83331577/184473321-d770b2bf-aed4-4fbb-8f18-2bde4335b0cf.PNG)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -191,8 +190,21 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Thats all. I hope you loved it. I tried so hard.
+**Thats all. I hope you loved it. I tried so hard.**
 
 **I'll update this with more statics and percents. STAY FOLLOW!**
 
 **Have a good day buddy!**
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Resources:**
+https://liquipedia.net/
+
+https://www.pglesports.com/
+
+https://www.hltv.org/
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
