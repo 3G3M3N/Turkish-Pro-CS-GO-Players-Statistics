@@ -201,6 +201,7 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Resources:**
+
 https://liquipedia.net/
 
 https://www.pglesports.com/
