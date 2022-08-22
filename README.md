@@ -82,6 +82,14 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 ![age](https://user-images.githubusercontent.com/83331577/184385316-e8dde036-ded8-4526-acfd-d0640703ace9.PNG)
 
+**There is a 811 PRO player in this dataset!**
+
+imoRR youngest 100 person in dataset this mean he is on the %12.5.
+
+Woxic youngest 212 person in dataset this mean he is on the %26.5.
+
+Woxic youngest 279 person in dataset this mean he is on the %34.5.
+
 **By the way MAJ3R has a kid. He has a daughter. She is 3 years old.**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
