@@ -15,8 +15,8 @@ pd.DataFrame(age)
 
 dfage = df.sort_values("age")
 dfage = dfage.reset_index()
+dfage.describe()
 turks = dfage.loc[(dfage["country"]=="Turkey")]
-turks
 
 #Teams
 summary = turkishplayers["current_team"]
