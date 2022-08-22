@@ -76,7 +76,7 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 ![oldteam](https://user-images.githubusercontent.com/83331577/184387457-205bc560-0857-403f-9fde-1d6c83b06652.PNG)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Ages:**
 
@@ -84,11 +84,23 @@ Actualy we have much players. But here is just taked global teams. Turkish best 
 
 **There is a 811 PRO player in this dataset!**
 
-imoRR youngest 100 person in dataset this mean he is on the %12.5.
+**CS:GO PRO Players age avarage is 25.85**
 
-Woxic youngest 212 person in dataset this mean he is on the %26.5.
+imoRR youngest 100 person in dataset this mean he is on the %12.5
 
-Woxic youngest 279 person in dataset this mean he is on the %34.5.
+Woxic youngest 212 person in dataset this mean he is on the %26.5
+
+Calyx youngest 279 person in dataset this mean he is on the %34.8
+
+paz youngest 387 person in dataset this mean he is on the %48.375
+
+XANTARES youngest 411 person in dataset this mean he is on the %48.375
+
+ngiN youngest 635 person in dataset this mean he is on the %79.375
+
+DESPE youngest 649 person in dataset this mean he is on the %81.125
+
+MAJ3R	 youngest 724 person in dataset this mean he is on the %90.5
 
 **By the way MAJ3R has a kid. He has a daughter. She is 3 years old.**
 
