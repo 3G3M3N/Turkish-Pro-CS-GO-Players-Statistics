@@ -8,10 +8,17 @@ turkishplayers
 
 turkishplayers.columns
 
+#Ages
 age = turkishplayers["age"]
 age = age.rename(index = turkishplayers["nickname"])
 pd.DataFrame(age)
 
+dfage = df.sort_values("age")
+dfage = dfage.reset_index()
+turks = dfage.loc[(dfage["country"]=="Turkey")]
+turks
+
+#Teams
 summary = turkishplayers["current_team"]
 summary = summary.rename(index = turkishplayers["nickname"])
 #ngiN playing on Sangal, but data is false. I did correct this.
