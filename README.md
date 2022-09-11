@@ -5,7 +5,7 @@ Hello, ı used this dataset from https://www.kaggle.com/datasets/naumanaarif/csg
 
 **Information:**
 
-We have 811 player in this dataset.
+There is a 811 player in this dataset.
 
 Actualy we have much players. But here is just taked global teams. Turkish best team, global team is Eternal Fire. So data is just Eternal Fire players and famous CS:GO players.
 
