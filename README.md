@@ -3,7 +3,7 @@ Hello, ı used this dataset from https://www.kaggle.com/datasets/naumanaarif/csg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Information:**
+**Information: **
 
 There is a 811 player in this dataset.
 
