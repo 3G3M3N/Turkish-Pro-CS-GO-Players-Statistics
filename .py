@@ -31,6 +31,7 @@ pd.DataFrame(oldteam)
 
 headshot = turkishplayers["headshot_percentage"]
 headshot = headshot.rename(index = turkishplayers["nickname"])
+
 pd.DataFrame(headshot)
 
 totaldeath = turkishplayers["total_deaths"]
